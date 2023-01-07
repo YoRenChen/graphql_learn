@@ -1,6 +1,6 @@
 
 ### 前置
-python3, pip3, django, graphene-django
+python3 < 11, pip3, django, graphene-django
 
 1. cd ./product_catalog
 2. python3 manage.py runserver 8001
